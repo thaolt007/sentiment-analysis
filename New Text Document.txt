@@ -1,1 +1,0 @@
-python eval.py --eval_train --checkpoint_dir="./runs/1502608629/checkpoints/"
